@@ -1,0 +1,5 @@
+--- Calling CMAKE from build dir ---
+1. cmake ../source
+
+--- Calling CMAKE from root dir ---
+1. cmake -B ./build -S ./source
